@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Arif.</h1>
-<h3 align="center">I'm a data science researcher from Turkey. I work as an teaching assistant in VBO. I'm interested in defence industry.</h3>
+<h2 align="center">Hi 👋, I'm Arif.</h1>
+<h3 align="center">I'm a data science researcher from Turkey.</h3>
+<h3 align="center">I work as an teaching assistant in VBO.</h3>
+<h3 align="center">I'm interested in defence industry.</h3>
 
 - 🌱 I’m currently learning **Python, ML, DL etc.**
 
