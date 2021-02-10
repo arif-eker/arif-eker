@@ -1,9 +1,9 @@
 <h3 align="center">Hi 👋, I'm Arif.</h3>
-<h4 align="left">I'm a data science researcher from Turkey.</h4>
-<h4 align="left">I'm teaching assistant at <a href="https://www.linkedin.com/in/veribilimiokulu/" target="blank">VBO</h4>
-<h4 align="left">I'm interested in defence industry.</h4>
+<h4 align="center">I'm a data science researcher from Turkey.</h4>
+<h4 align="center">I'm teaching assistant at <a href="https://www.linkedin.com/in/veribilimiokulu/" target="blank">VBO</h4>
+<h4 align="center">I'm interested in defence industry.</h4>
+<h4 align="center">- 🌱 I’m currently learning <b>Python, ML, DL etc.</b></h4>
 
-- 🌱 I’m currently learning **Python, ML, DL etc.**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
