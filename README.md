@@ -2,7 +2,7 @@
 <h4 align="center">I'm a data science researcher from Turkey.</h4>
 <h4 align="center">I'm teaching assistant at <a href="https://www.linkedin.com/in/veribilimiokulu/" target="blank">VBO</h4>
 <h4 align="center">I'm interested in defence industry.</h4>
-<h4 align="center">- 🌱 I’m currently learning <b>Python, ML, DL etc.</b></h4>
+<h4 align="center">- 🌱 I’m currently learning <b>Python, ML, DL, Big Data etc.</b></h4>
 
 
 <h3 align="center">Connect with me:</h3>
