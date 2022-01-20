@@ -1,5 +1,5 @@
   ## Hi there 👋 this is Arif Eker
-  ### I'm 23 years old and I'm a data science researcher from Turkey.
+  #### I'm 23 years old and I'm a data science researcher from Turkey.
 * ✨ Check my [medium blog](https://medium.com/@arifeker).
 * 🌱 I love researching, learning and sharing. 
 
