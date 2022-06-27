@@ -1,7 +1,7 @@
   ## Hi there 👋 this is Arif Eker
   [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/arifeker/)
 
-  #### I'm 23 years old and I'm a data science researcher from Turkey.
+  #### I'm 24 years old and I'm a data science researcher from Turkey.
 * ✨ Check my [medium blog](https://medium.com/@arifeker).
 * 🌱 I love researching, learning and sharing. 
 
